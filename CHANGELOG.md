@@ -4,6 +4,10 @@ All notable changes to the "dotnet-extensions-pack" extension pack are in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.0] - 2021-07-29
+
+- Removed C# Extensions as i rarely used its features
+
 ## [1.1.9] - 2021-04-27
 
 - Changed database tooling from "SQL Server by Microsoft" to "SQLTools with MSQL Driver". "SQL Server by Microsoft" forces configuration in the global settings, which i do not like, as i want my db connections to be saved only to workspaces. Also SQLTools seems like a much more capable tooling.
