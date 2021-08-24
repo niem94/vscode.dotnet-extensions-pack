@@ -4,6 +4,10 @@ All notable changes to the "dotnet-extensions-pack" extension pack are in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.1] - 2021-08-24
+
+- Removed Coverage Gutters. I rarely used it, and its easier just to check this info in Pull Requests with Codecov or similar tools.
+
 ## [1.2.0] - 2021-07-29
 
 - Removed C# Extensions as i rarely used its features
