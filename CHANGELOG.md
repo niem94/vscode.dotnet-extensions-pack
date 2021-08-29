@@ -4,6 +4,10 @@ All notable changes to the "dotnet-extensions-pack" extension pack are in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.3] - 2021-08-29
+
+- Removed "XML Tools", ".NET Core Tools" and "Prettier". These are not needed for .NET development.
+
 ## [1.2.2] - 2021-08-27
 
 - Removed "C# Extensions" and "NuGet Package Manager", as i rarely use them.
